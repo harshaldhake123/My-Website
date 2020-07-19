@@ -1,2 +1,3 @@
 # My-Website
-My personal website created from scratch as part of learning web development
+A personal website created as part of learning web development
+The page is designed only in HTML and CSS.
